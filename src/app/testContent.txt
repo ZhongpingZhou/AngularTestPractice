@@ -1,0 +1,21 @@
+Angular核心知识之测试
+1.在线例子
+2.Angular测试入门
+   A.工具与技术
+   B.环境设置
+   C.独立单元测试VS.Angular测试工具集
+3.第一个karma测试
+   A.运行karma
+   B.调试测试程序
+   C.试试这个在线例子
+4.测试一个组件
+   A.TestBed测试台
+   B.createComponent方法
+   C.ComponentFixture、DebugElement和query(By.css)
+   D.测试程序 
+   E.detectChanges:在测试中的Angular变更检测    
+   F.试试在线例子
+   G.自动变更检测 
+5.测试带有外模板的组件
+   A.第一个异步的beforeEach
+   B.complieComponents方法
